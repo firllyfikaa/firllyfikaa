@@ -14,7 +14,7 @@
 - 🕛 My hobbies are `writing and playing games`
 - 💬 Ask me about anything
 - 📫 How to reach me: fikaamc@gmail.com
-- 🌐 Language
+- 🌐 `Language`
    - 🇮🇩 Indonesian
    - 🇬🇧 English
    - 🇮🇩 Jawa
