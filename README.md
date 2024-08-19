@@ -21,7 +21,7 @@
 
 ## Objective:
 
-#### 1. Tujuan dari Sayai adalah berbagi pengetahuan yang pernah didapatkan secara pribadi dan berdasarkan apa yang pernah dialami, jika ada yang kurang tepat, anda bisa koreksi.
+#### 1. Tujuan dari Saya adalah berbagi pengetahuan yang pernah didapatkan secara pribadi dan berdasarkan apa yang pernah dialami, jika ada yang kurang tepat, anda bisa koreksi.
 
 #### 2. Selain untuk berbagi, Saya juga gunakan untuk dokumentasi supaya ilmu yang pernah didapatkan tidak lupa. Dalam Projek saya ini tidak ada input data yang diperlukan, anda bebas membaca dan share ke orang lain.
 
