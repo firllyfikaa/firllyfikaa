@@ -1,4 +1,4 @@
-[![firllyfikaa header](https://ibb.co.com/93RJF3v)](https://github.com/firllyfikaa/)
+[![firllyfikaa header](https://imgur.com/a/ffzwTiD)](https://github.com/firllyfikaa/)
 
 
 <p align="center">
