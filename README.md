@@ -1,3 +1,12 @@
+[![firllyfikaa header](https://ibb.co.com/93RJF3v)](https://github.com/firllyfikaa/)
+
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=firllyfikaa.firllyfikaa" />
+  <a href="https://github.com/firllyfikaa"><img src="https://img.shields.io/github/followers/firllyfikaa?label=followers&style=social"/></a>
+  </a>
+</p>
+
 # Hi there, I'm Firllyfikaa👋
 ## About me:
 - 👤 I am currently a student 
