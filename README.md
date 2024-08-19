@@ -7,13 +7,17 @@
   </a>
 </p>
 
-# Hi there, I'm Firllyfikaa👋
+# Hi there, I'm 'Firllyfikaa👋'
 ## About me:
-- 👤 I am currently a student 
-- 🏫 I am currently studying in high school.
-- 🕛 My hobbies are writing and playing games
+- 👤 I am currently a 'Student'
+- 🏫 I am currently studying in 'High School'.
+- 🕛 My hobbies are 'writing and playing games'
 - 💬 Ask me about anything
 - 📫 How to reach me: fikaamc@gmail.com
+- 🌐 Language
+   - 🇮🇩 Indonesian
+   - 🇬🇧 English
+   - 🇮🇩 Jawa
 
 ## Objective:
 
