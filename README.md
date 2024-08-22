@@ -19,6 +19,10 @@
    - 🇬🇧 English
    - 🇮🇩 Jawa
 
+![Firlly github stats](https://github-readme-stats.vercel.app/api?username=firllyfikaa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firllyfikaa&show_icons=true&layout=compact&theme=radical)
+
+
 ## Objective:
 
 #### 1. Tujuan dari Saya adalah berbagi pengetahuan yang pernah didapatkan secara pribadi dan berdasarkan apa yang pernah dialami, jika ada yang kurang tepat, anda bisa koreksi.
