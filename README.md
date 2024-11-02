@@ -1,5 +1,6 @@
 [![firllyfikaa header](https://github.com/firllyfikaa/firllyfikaa/blob/main/profile.png)](https://github.com/firllyfikaa/)
 
+<img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF973600&center=true&vCenter=true&lines=Hello,+I+am+FirllyFikaa;Welcome+to+my+GitHub+👋" alt="Typing SVG"/></a>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=firllyfikaa.firllyfikaa" />
