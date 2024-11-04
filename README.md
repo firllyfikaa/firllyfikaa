@@ -1,6 +1,6 @@
 [![firllyfikaa header](https://github.com/firllyfikaa/firllyfikaa/blob/main/profile.png)](https://github.com/firllyfikaa/)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF973600&center=true&vCenter=true&lines=Hello,+I+am+FirllyFikaa;Welcome+to+my+GitHub+👋" alt="Typing SVG"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=ff777&background=FF973600&center=true&vCenter=true&lines=Hello,+I+am+FirllyFikaa;Welcome+to+my+GitHub+👋" alt="Typing SVG"/></a>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=firllyfikaa.firllyfikaa" />
@@ -26,9 +26,9 @@
 
 ## Objective:
 
-#### 1. Tujuan dari Saya adalah berbagi pengetahuan yang pernah didapatkan secara pribadi dan berdasarkan apa yang pernah dialami, jika ada yang kurang tepat, anda bisa koreksi.
+##### 1. Tujuan dari Saya adalah berbagi pengetahuan yang pernah didapatkan secara pribadi dan berdasarkan apa yang pernah dialami, jika ada yang kurang tepat, anda bisa koreksi.
 
-#### 2. Selain untuk berbagi, Saya juga gunakan untuk dokumentasi supaya ilmu yang pernah didapatkan tidak lupa. Dalam Projek saya ini tidak ada input data yang diperlukan, anda bebas membaca dan share ke orang lain.
+##### 2. Selain untuk berbagi, Saya juga gunakan untuk dokumentasi supaya ilmu yang pernah didapatkan tidak lupa. Dalam Projek saya ini tidak ada input data yang diperlukan, anda bebas membaca dan share ke orang lain.
 
 
 ### Languages and Tools:
