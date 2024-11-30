@@ -24,7 +24,7 @@
    - 🇮🇩 Jawa
 
 ![Firlly github stats](https://github-readme-stats.vercel.app/api?username=firllyfikaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firllyfikaa&show_icons=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firllyfikaa&showicons=true&layout=compact&theme=radical)
 
 
 ## 🖼️ My Skills
