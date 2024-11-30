@@ -7,6 +7,9 @@
   <a href="https://github.com/firllyfikaa"><img src="https://img.shields.io/github/followers/firllyfikaa?label=followers&style=social"/></a>
   </a>
 </p>
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=firllyfikaa&style=flat-square&color=blue" alt="Visitors Badge"/>
+</p>
 
 # Hi there, I'm Firllyfikaa👋
 ## About me:
