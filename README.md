@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=ff777&background=FF973600&center=true&vCenter=true&lines=Hello,+I+am+FirllyFikaa;Welcome+to+my+GitHub+👋" alt="Typing SVG"/></a>
 
 <p align="center">
-<a href="https://github.com/firllyfikaa/firllyfikaa/blob/main/LINE%20Creators'%20Stickers%20-%20Cutie%20Cat-Chan%20four%20Example%20with%20GIF%20Animation.gif">
+<a href="https://github.com/firllyfikaa/firllyfikaa/blob/main/logo.webp">
   <img align="center" src="https://github.com/firllyfikaa/firllyfikaa/blob/main/LINE%20Creators'%20Stickers%20-%20Cutie%20Cat-Chan%20four%20Example%20with%20GIF%20Animation.gif" width="50"/>
 </a>
 </p>
